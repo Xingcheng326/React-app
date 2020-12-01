@@ -1,6 +1,7 @@
 # This is a React App used to count how many stuff we have here and how many things for each kind.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+I basicly use React and bootstrapped to complete it. There is no database there. Just some frontend web application.
 
 ## Available Scripts
 
